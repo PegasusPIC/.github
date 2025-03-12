@@ -5,4 +5,4 @@ This is an organization for repos relate to the Pegasus Particles-in-Cell (PIC) 
 
 ## Citations 
 
-Icon made by max.icons from www.flaticon.com
+- Icon made by max.icons from www.flaticon.com
